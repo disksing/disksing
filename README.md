@@ -6,4 +6,4 @@
 - 💬 How to reach me: [weibo](https://weibo.com/539523448) [QQ](https://shang.qq.com/wpa/qunwpa?idkey=ade2895067e4105ce59e0c56863d650543b4448245f179574c6684fe1cb7b5d5) [bilibili](https://space.bilibili.com/2207710)
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=disksing)](https://github.com/disksing)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=disksing&count_private=true)](https://github.com/disksing)
